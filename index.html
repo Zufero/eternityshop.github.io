@@ -1,0 +1,348 @@
+<!--
+
+Слит сайтом WebStudio.PW
+vk.com/qu1kgg - вк
+vk.com/ws_pw - группа вк
+WebStudio.PW - сайт
+Trade.WebStudio.PW - поддержать меня
+--> 
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8" />
+		<title>GameTime.one - Магазин рандомных ключей и аккаунтов</title>
+		<meta charset="utf-8" />
+		<link rel="shortcut icon" href="theme/images/favicon.ico" />
+		<link rel="stylesheet" type="text/css" href="theme/css/style.css" />
+		<script type="text/javascript" src="theme/js/jquery-1.9.1.js"></script>
+		<script type="text/javascript" src="theme/js/jquery.smoothscroll.js"></script>
+		<script type="text/javascript" src="theme/js/jquery.arcticmodal-0.3.min.js"></script>
+		<script type="text/javascript" src="theme/js/script.js"></script>
+		<SCRIPT type="text/javascript" src="theme/js/img.js"></SCRIPT>
+<meta name="description" content="Онлайн магазин лицензионных Steam аккаунтов и ключей активации. Лучшие цены в интернете! Скидки, акции, подарки! Своё игровое сообщество Steam." />
+<meta name="keywords" content="купить steam, steam аккаунты, магазин steam аккаунтов, ключи активации, продажа steam, steam игры, купить стим, продать steam, продажа стим аккаунтов, origin, ea, магазн игр, counter strike." />
+
+ <style>
+   .fig {
+    text-align: left; /* Выравнивание по правой стороне */ 
+   }
+   .fig2 {
+    text-align: center; /* Выравнивание по левой стороне */ 
+   }
+  </style>
+
+
+</head>
+
+<body>
+
+<style type="text/css">#hellopreloader>p{display:none;}#hellopreloader_preload{display: block;position: fixed;z-index: 99999;top: 0;left: 0;width: 100%;height: 100%;min-width: 1000px;background: #192d15 url(http://hello-site.ru//main/images/preloads/rings.svg) center center no-repeat;background-size:104px;}</style>
+<div id="hellopreloader"><div id="hellopreloader_preload"></div></div>
+<script type="text/javascript">var hellopreloader = document.getElementById("hellopreloader_preload");function fadeOutnojquery(el){el.style.opacity = 1;var interhellopreloader = setInterval(function(){el.style.opacity = el.style.opacity - 0.05;if (el.style.opacity <=0.05){ clearInterval(interhellopreloader);hellopreloader.style.display = "none";}},16);}window.onload = function(){setTimeout(function(){fadeOutnojquery(hellopreloader);},1000);};</script>
+
+		<div style="display:none;">
+			<div class="modal center" id="modal-1" style="width:1106px; font-weight:bold;">
+				<div class="modal-close arcticmodal-close"></div>
+					 	<p style="font-size:17px; color:#fd2457;">НАШИ ГАРАНТИИ</p>
+				<br />
+				<p>Все претензии и жалобы на товар принимаются в течение 60 минут после покупки, во избежание мошеннических действий. Прилагайте к своим обращениям скриншоты и полную характеристику оплаты товара, иначе помочь вам будет очень сложно.</p>
+				<br />
+				<br />
+				<br />
+				<p>При покупке товара на сайте вы автоматически соглашаетесь со следующими правилами :</p>
+				<br />
+				<p>1. Весь товар из раздела КЛЮЧИ, является лотереей, что написано в конце названия - Chance, на странице Oplata.info.</p>
+				<br />
+				<p>2. Проданный ключ возврату не подлежит. Это значит, что совершив покупку ключа, вы не имеете права предлагать нам вернуть ключ обратно, обменять данный ключ любой на другой и другие подобные вещи, связанные с переходом проданного ключа обратно в нашу собственность.</p>
+				<br />
+				<p>3. Возврат средств за проданные ключи или аккаунты, в случае их неработоспособности по любым возможным причинам производится только в том случае, если у нас нет возможности выдать замену, которая будет соответствовать тому, что вы изначально приобрели, отталкиваясь от описания на странице товара и по наличию видеозаписи всего процесса покупки, начиная с захода на сайт и заканчивая переходом по кнопке "Вернуться в магазин"</p>
+				<br />
+				<p>4. Замена Лицензионного Ключа (выдача нового Лицензионного Ключа, который соответствует тому, что вы изначально приобрели, отталкиваясь от описания на странице товара), в случае его неработоспособности возможна только в течении 60-ти минут с момента покупки. За время покупки принимается время подтверждения оплаты товара. Время подтверждения оплаты товара совпадает со временем получения данных на страницу оплаченного товара. То же самое касается и возврата средств.</p>
+				<br />
+				<p>Для написания заявки о неработоспособности вам нужно воспользоваться технической поддержкой через ВК или в переписке с продавцом на Oplata.info</p>
+				<br />
+				<p>5. Мат, неуважение, оскорбление и прочие формы невежливого обращения в сторону магазина наказываются добавлением покупателя в Черный Список Магазина без разбирательств, без права амнистии.</p>
+				<br />
+				<p>Администрация сайта оставляет за собой право в любой момент и по собственному усмотрению изменить правила, описанные выше. Любые поправки к текущему соглашению вступают в силу немедленно и распространяются на все последующие и прошлые покупки</p>
+				<br />
+				<p>Если Вы не согласны с каким-либо пунктом, приведенным выше – убедительно просим Вас не покупать товар в данном магазине, дабы не возникали конфликтные ситуации.</p>
+				<br />
+				<br />
+				<br />
+				<p>Этот сайт не был одобрен Корпорацией Valve и не аффилирован с Корпорацией Valve или ее лицензиаров. Название и логотип Steam являются товарными знаками или зарегистрированными товарными знаками Корпорации Valve в США и/или других странах. Все права сохранены. Содержимое игр и игровые материалы (с) Корпорация Valve. Все названия продуктов, компаний и марок, логотипы и товарные знаки являются собственностью соответствующих владельцев.</p>			</div>
+			<div class="modal center" id="modal-2" style="width:1106px; font-weight:bold;">
+				<div class="modal-close arcticmodal-close"></div>
+<div class="center">
+ 	<p style="font-size:40px; color:#fd2457;">Тех.Поддержка:</p><p style="font-size:25px;">vk.com/id362309414</p>
+<br />	
+<br />
+<p style="font-size:40px; color:#fd2457;">Почта:</p><p style="font-size:25px;"><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="87ebe6eff3e8c7fee6e9e3e2ffa9f5f2">[email&#160;protected]</a></p>
+</div>			
+			</div>
+			<div class="modal" id="modal-3" style="width:1106px; font-weight:bold;">
+				<div class="modal-close arcticmodal-close"></div>
+			<div style="margin: 0 auto; width: 750px;" >
+ 	<p style="font-size:40px; color:#fd2457; text-align: center;">Как купить?</p>	
+<br />
+<br />
+<center>1. На главной странице выбираем товар</center><br>
+<br />
+<img src="http://i.imgur.com/nrYZeTq.png" alt="Описание картинки">
+<br />
+<br />
+<br />
+
+<center>3. Выбирайте способ оплаты , укажите ваш e-mail и оплачивайте</center><br>
+<br />
+<img src="http://i.imgur.com/754MQgL.png" alt="Описание картинки">
+<br />
+<br />
+<center>4. После оплаты нажмите на кнопку "Вернуться в магазин" и вас перекинет на страницу с вашей игрой, а если вы случайно закрыли вкладку, то не стоит переживать, игра также отсылается вам на почту, которую вы указали при оплате :)</center><br>
+</div>					</div>
+		</div>
+   		<div class="wrapper">
+			<div class="bg" style="background-image: url(theme/images/bg.jpg);"></div>
+			<div class="header-panel">
+				<div class="full">
+				<a href="/" class="logo"></a>
+					<ul class="nav">
+						<li class="active"><a href="/">Главная</a></li>
+						<li><a href="#" onclick="$('#modal-3').arcticmodal(); return false;">Как купить?</a></li>
+						<li><a href="#" onclick="$('#modal-1').arcticmodal(); return false;">Гарантии</a></li>
+						<li><a target="_blank" href="https://vk.com/id362309414">Тех.поддержка</a></li>
+						<li><a href="#" onclick="$('#modal-2').arcticmodal(); return false;">Контакты</a></li>
+					</ul>
+					<a href="https://www.oplata.info/info/delivery.asp"  target="_blank" class="buy">МОИ ПОКУПКИ</a>				</div>
+			</div>
+
+					<div class="container full">
+				<div class="item-loop">			
+		<a target="_blank"  href="https://vk.com/gametimeone" class="item2" style="background-image:url(http://i.imgur.com/oY5whmN.jpg);" title="Groupvk">
+		</a>
+				</div>
+
+
+						<div class="item-loop">
+
+							<a target="_blank"  href="https://primearea.biz/buy/86898/69137" class="item" style="background-image:url(http://i.imgur.com/IY8RCEA.png);" title="Bronze Random">
+							<span class="item-panel"><span class="item-proc">-5%</span><span class="item-name-1">Bronze random</span>
+							<span class="item-name-2">Игровой ключ</span>
+						</span>
+								<span class="item-rub">Стоимость: <b>29руб.</b></span>
+							</a>
+							<a target="_blank" href="https://primearea.biz/buy/86899/69137" class="item" style="background-image:url(http://i.imgur.com/J2j2Bmt.png);" title="Silver Random">
+							<span class="item-panel"><span class="item-proc">-5%</span><span class="item-name-1">Silver Random</span>
+							<span class="item-name-2">Игровой ключ</span>
+						</span>
+								<span class="item-rub">Стоимость: <b>39уб.</b></span></a>
+							<a target="_blank" href="https://primearea.biz/buy/86900/69137" class="item" style="background-image:url(http://i.imgur.com/vcIjypE.png);" title="Gold Random">
+							<span class="item-panel"><span class="item-proc">-50%</span><span class="item-name-1">Gold Random</span>
+							<span class="item-name-2">Игровой ключ</span>
+						</span>
+								<span class="item-rub">Стоимость: <b>49руб.</b></span></a>
+							<a target="_blank" href="https://primearea.biz/buy/86941/69137" class="item" style="background-image:url(http://i.imgur.com/abRf4U1.png);" title="Platinum Random">
+							<span class="item-panel"><span class="item-proc">-20%</span><span class="item-name-1">Platinum Random</span>
+							<span class="item-name-2">Игровой ключ</span>
+						</span>
+								<span class="item-rub">Стоимость: <b>59руб.</b></span>
+							</a>
+							<a target="_blank"  href="https://primearea.biz/buy/86896/69137" class="item" style="background-image:url(http://i.imgur.com/30WjSjs.png);" title="Ключ Counter-Strike: Global Offensive">
+							<span class="item-panel"><span class="item-proc">-50%</span><span class="item-name-1">Ключ Counter-Strike: GO</span>
+							<span class="item-name-2">Игровой ключ</span>
+						</span>
+								<span class="item-rub">Стоимость: <b>89руб.</b></span>
+							</a>
+							<a target="_blank" href="https://primearea.biz/buy/86932/69137" class="item" style="background-image:url(http://i.imgur.com/VMmNtAv.jpg);" title="Ключ Rust">
+							<span class="item-panel"><span class="item-proc">-50%</span><span class="item-name-1">Ключ Battlegrounds</span>
+							<span class="item-name-2">Игровой ключ</span>
+						</span>
+								<span class="item-rub">Стоимость: <b>89руб.</b></span></a>
+							<a target="_blank" href="https://primearea.biz/buy/86904/69137" class="item" style="background-image:url(http://i.imgur.com/mhrNHgR.png);" title="Ключ Overwatch">
+							<span class="item-panel"><span class="item-proc">-60%</span><span class="item-name-1">Ключ Overwatch</span>
+							<span class="item-name-2">Игровой ключ</span>
+						</span>
+								<span class="item-rub">Стоимость: <b>149уб.</b></span></a>
+							<a target="_blank" href="https://primearea.biz/buy/86902/69137" class="item" style="background-image:url(http://i.imgur.com/UU5iyK8.png);" title="Ключ Rust">
+							<span class="item-panel"><span class="item-proc">-50%</span><span class="item-name-1">Ключ Rust</span>
+							<span class="item-name-2">Игровой ключ</span>
+						</span>
+								<span class="item-rub">Стоимость: <b>69уб.</b></span>
+							</a>
+							<a target="_blank" href="https://primearea.biz/buy/86897/69137" class="item" style="background-image:url(http://i.imgur.com/PVRVM7D.png);" title="Ключ Grand Theft Auto 5">
+							<span class="item-panel"><span class="item-proc">-99%</span><span class="item-name-1">Ключ Grand Theft Auto 5</span>
+							<span class="item-name-2">Игровой ключ</span>
+						</span>
+								<span class="item-rub">Стоимость: <b>149руб.</b></span>
+							</a>
+							<a target="_blank" href="https://primearea.biz/buy/86925/69137" class="item" style="background-image:url(https://i.imgur.com/Obo9iEH.png);" title="Ключ Cuphead">
+							<span class="item-panel"><span class="item-proc">-70%</span><span class="item-name-1">Ключ Cuphead</span>
+							<span class="item-name-2">Игровой ключ</span>
+						</span>
+								<span class="item-rub">Стоимость: <b>69уб.</b></span>
+							</a>
+							<a target="_blank" href="https://primearea.biz/buy/86905/69137" class="item" style="background-image:url(http://i.imgur.com/HY5kEa5.png);" title="Ключ Dead by Daylight">
+							<span class="item-panel"><span class="item-proc">-75%</span><span class="item-name-1">Ключ Dead by Daylight</span>
+							<span class="item-name-2">Игровой ключ</span>
+						</span>
+								<span class="item-rub">Стоимость: <b>69руб.</b></span>
+							</a>
+							<a target="_blank" href="https://primearea.biz/buy/86903/69137" class="item" style="background-image:url(http://i.imgur.com/DYzi94S.png);" title="Ключ Rocket League">
+							<span class="item-panel"><span class="item-proc">-60%</span><span class="item-name-1">Ключ Rocket League</span>
+							<span class="item-name-2">Игровой ключ</span>
+						</span>
+								<span class="item-rub">Стоимость: <b>69руб.</b></span>
+							</a>
+							<a target="_blank" href="https://primearea.biz/buy/86921/69137" class="item" style="background-image:url(http://i.imgur.com/eRu473h.png);" title="Ключ Garry's Mod">
+							<span class="item-panel"><span class="item-proc">-20%</span><span class="item-name-1">Ключ Garry's Mod</span>
+							<span class="item-name-2">Игровой ключ</span>
+						</span>
+								<span class="item-rub">Стоимость: <b>59руб.</b></span>
+							</a>
+							<a target="_blank" href="https://primearea.biz/buy/86923/69137" class="item" style="background-image:url(http://i.imgur.com/rXlbAJV.png);" title="Ключ Terraria">
+							<span class="item-panel"><span class="item-proc">-70%</span><span class="item-name-1">Ключ Terraria</span>
+							<span class="item-name-2">Игровой ключ</span>
+						</span>
+								<span class="item-rub">Стоимость: <b>49руб.</b></span>
+							</a>
+							<a target="_blank" href="https://primearea.biz/buy/86912/69137" class="item" style="background-image:url(http://i.imgur.com/CVGTH5Z.png);" title="Ключ H1Z1: King of the Kill">
+							<span class="item-panel"><span class="item-proc">-45%</span><span class="item-name-1">Ключ H1Z1: King of the Kill</span>
+							<span class="item-name-2">Игровой ключ</span>
+						</span>
+								<span class="item-rub">Стоимость: <b>69руб.</b></span>
+							</a>
+							<a target="_blank" href="https://primearea.biz/buy/86914/69137" class="item" style="background-image:url(http://i.imgur.com/iJMUm5z.png);" title="Ключ Tom Clancy's The Rainbow Siege">
+							<span class="item-panel"><span class="item-proc">-70%</span><span class="item-name-1">Ключ Tom Clancy's The Rain..</span>
+							<span class="item-name-2">Игровой ключ</span>
+						</span>
+								<span class="item-rub">Стоимость: <b>79руб.</b></span>
+							</a>
+							<a target="_blank" href="https://primearea.biz/buy/86920/69137" class="item" style="background-image:url(http://i.imgur.com/Hbx51xo.png);" title="Ключ Payday 2">
+							<span class="item-panel"><span class="item-proc">-65%</span><span class="item-name-1">Ключ Payday 2</span>
+							<span class="item-name-2">Игровой ключ</span>
+						</span>
+								<span class="item-rub">Стоимость: <b>59руб.</b></span>
+							</a>
+							<a target="_blank" href="https://primearea.biz/buy/86922/69137" class="item" style="background-image:url(http://i.imgur.com/xrQPeqR.png);" title="Ключ Minecraft">
+							<span class="item-panel"><span class="item-proc">-65%</span><span class="item-name-1">Ключ Minecraft</span>
+							<span class="item-name-2">Игровой ключ</span>
+						</span>
+								<span class="item-rub">Стоимость: <b>89руб.</b></span>
+							</a>
+							<a target="_blank" href="https://primearea.biz/buy/86919/69137" class="item" style="background-image:url(http://i.imgur.com/Xqg915Z.png);" title="Ключ ARK: Survival Evolved">
+							<span class="item-panel"><span class="item-proc">-70%</span><span class="item-name-1">Ключ ARK: Survival Evolved</span>
+							<span class="item-name-2">Игровой ключ</span>
+						</span>
+								<span class="item-rub">Стоимость: <b>69руб.</b></span>
+							</a>
+							<a target="_blank" href="https://primearea.biz/buy/86908/69137" class="item" style="background-image:url(http://i.imgur.com/ijrEvcn.png);" title="Ключ Fallout 4">
+							<span class="item-panel"><span class="item-proc">-80%</span><span class="item-name-1">Ключ Fallout 4</span>
+							<span class="item-name-2">Игровой Ключ</span>
+						</span>
+								<span class="item-rub">Стоимость: <b>79руб.</b></span>
+							</a>
+							<a target="_blank" href="https://primearea.biz/buy/86907/69137" class="item" style="background-image:url(http://i.imgur.com/LrdMhRP.png);" title="Ключ Watch Dogs 2 Deluxe Edition">
+							<span class="item-panel"><span class="item-proc">-80%</span><span class="item-name-1">Ключ Watch Dogs 2 Delux..</span>
+							<span class="item-name-2">Игровой ключ</span>
+						</span>
+								<span class="item-rub">Стоимость: <b>149руб.</b></span>
+							</a>
+							<a target="_blank" href="https://primearea.biz/buy/86911/69137" class="item" style="background-image:url(http://i.imgur.com/5917ks7.png);" title="Ключ Battlefield 1">
+							<span class="item-panel"><span class="item-proc">-65%</span><span class="item-name-1">Ключ Battlefield 1</span>
+							<span class="item-name-2">Игровой ключ</span>
+						</span>
+							</a>
+							<a target="_blank" href="https://primearea.biz/buy/86915/69137" class="item" style="background-image:url(http://i.imgur.com/rHvNFWs.png);" title="Ключ Steep">
+							<span class="item-panel"><span class="item-proc">-65%</span><span class="item-name-1">Ключ Steep</span>
+							<span class="item-name-2">Игровой ключ</span>
+						</span>
+								<span class="item-rub">Стоимость: <b>99руб.</b></span>
+							</a>
+							<a target="_blank" href="https://primearea.biz/buy/86913/69137" class="item" style="background-image:url(http://i.imgur.com/cOl92ed.png);" title="Ключ Doom 4">
+							<span class="item-panel"><span class="item-proc">-65%</span><span class="item-name-1">Ключ Doom 4</span>
+							<span class="item-name-2">Игровой ключ</span>
+						</span>
+								<span class="item-rub">Стоимость: <b>79руб.</b></span>
+							</a>
+							<a target="_blank" href="https://primearea.biz/buy/86910/69137" class="item" style="background-image:url(http://i.imgur.com/o7GXXNL.png);" title="Ключ Killing Floor 2">
+							<span class="item-panel"><span class="item-proc">-65%</span><span class="item-name-1">Ключ Killing Floor 2</span>
+							<span class="item-name-2">Игровой ключ</span>
+						</span>
+								<span class="item-rub">Стоимость: <b>69руб.</b></span>
+							</a>
+							<a target="_blank" href="https://primearea.biz/buy/86906/69137" class="item" style="background-image:url(http://i.imgur.com/Yi081K7.png);" title="Ключ Dishonored 2">
+							<span class="item-panel"><span class="item-proc">-70%</span><span class="item-name-1">Ключ Dishonored 2</span>
+							<span class="item-name-2">Игровой ключ</span>
+						</span>
+								<span class="item-rub">Стоимость: <b>149руб.</b></span>
+							</a>
+							<a target="_blank" href="https://primearea.biz/buy/86918/69137" class="item" style="background-image:url(http://i.imgur.com/Hxv4rui.png);" title="Ключ Farming Simulator 2017">
+							<span class="item-panel"><span class="item-proc">-65%</span><span class="item-name-1">Ключ Farming Simulator 2017</span>
+							<span class="item-name-2">Игровой ключ</span>
+						</span>
+								<span class="item-rub">Стоимость: <b>79руб.</b></span>
+							</a>
+							<a target="_blank" href="https://primearea.biz/buy/86931/69137" class="item" style="background-image:url(http://i.imgur.com/yVYcVgl.png);" title="Ключ Fifa 17">
+							<span class="item-panel"><span class="item-proc">-89%</span><span class="item-name-1">Ключ Fifa 17</span>
+							<span class="item-name-2">Игровой ключ</span>
+						</span>
+								<span class="item-rub">Стоимость: <b>89руб.</b></span>
+							</a>
+							<a target="_blank" href="https://primearea.biz/buy/86916/69137" class="item" style="background-image:url(http://i.imgur.com/Aa0VdYS.png);" title="Ключ Pro Evolution Soccer 2017">
+							<span class="item-panel"><span class="item-proc">-65%</span><span class="item-name-1">Ключ Pro Evolution Soccer 2017</span>
+							<span class="item-name-2">Игровой ключ</span>
+						</span>
+								<span class="item-rub">Стоимость: <b>69руб.</b></span>
+							</a>
+							<a target="_blank" href="https://primearea.biz/buy/86926/69137" class="item" style="background-image:url(http://i.imgur.com/8dOtV3y.png);" title="Ключ For honor">
+							<span class="item-panel"><span class="item-proc">-80%</span><span class="item-name-1">Ключ For honor</span>
+							<span class="item-name-2">Игровой ключ</span>
+						</span>
+								<span class="item-rub">Стоимость: <b>129руб.</b></span>
+							</a>
+							<a target="_blank" href="https://primearea.biz/buy/86909/69137" class="item" style="background-image:url(http://i.imgur.com/dKiTiEH.png);" title="Ключ COD: Infinite Warfare">
+							<span class="item-panel"><span class="item-proc">-65%</span><span class="item-name-1">Ключ COD: Infinite Warfare</span>
+							<span class="item-name-2">Игровой ключ</span>
+						</span>
+								<span class="item-rub">Стоимость: <b>99руб.</b></span>
+							</a>
+							<a target="_blank" href="https://primearea.biz/buy/86917/69137" class="item" style="background-image:url(http://i.imgur.com/1LNBh9E.png);" title="Ключ 7 day to die">
+							<span class="item-panel"><span class="item-proc">-50%</span><span class="item-name-1">Ключ 7 day to die</span>
+							<span class="item-name-2">Игровой ключ</span>
+						</span>
+								<span class="item-rub">Стоимость: <b>89руб.</b></span>
+							</a>
+							<a target="_blank" href="https://primearea.biz/buy/86927/69137" class="item" style="background-image:url(http://i.imgur.com/AqkOdRC.png);" title="Ключ Sniper elite 4">
+							<span class="item-panel"><span class="item-proc">-70%</span><span class="item-name-1">Ключ Sniper elite 4</span>
+							<span class="item-name-2">Игровой ключ</span>
+						</span>
+								<span class="item-rub">Стоимость: <b>99руб.</b></span>
+							</a>
+							<a target="_blank" href="https://primearea.biz/buy/86928/69137" class="item" style="background-image:url(http://i.imgur.com/50J7p1S.png);" title="Ключ Resident Evil 7">
+							<span class="item-panel"><span class="item-proc">-30%</span><span class="item-name-1">Ключ Resident Evil 7</span>
+							<span class="item-name-2">Игровой ключ</span>
+						</span>
+								<span class="item-rub">Стоимость: <b>99руб.</b></span>
+							</a>
+						</div>
+					</div>
+		</div>
+				
+			<div class="footer full">
+				Интернет магазин рандомных ключей и аккаунтов. Тут Вы можете купить PC игры для Steam, Origin, Battle.net, Ea, Social Club. В магазине действуют постоянные скидки, конкурсы, специальные предложения. Вы можете купить игры ,а также ключи к играм не выходя из дома с помощью вебмани, киви, яндекс деньги или банковской картой (кредиткой). Использование данного веб-сайта означает принятие, а также Политики приватности. Все авторские права, торговые марки, знаки обслуживания принадлежат соответствующим владельцам.<br><br>
+<p class="fig"><!--LiveInternet counter--><script data-cfasync="false" src="/cdn-cgi/scripts/f2bf09f8/cloudflare-static/email-decode.min.js"></script><script type="text/javascript"><!--
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t11.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script><!--/LiveInternet-->
+</p>
+<p class="fig2"><img src="theme/images/pay.png"></p>
+			</div>
+		</div>
+	</body>
+</html>
