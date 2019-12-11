@@ -1,4 +1,4 @@
-<!--
+ <!--
 
 Слит сайтом WebStudio.PW
 vk.com/qu1kgg - вк
@@ -10,7 +10,7 @@ Trade.WebStudio.PW - поддержать меня
 <html>
 <head>
 <meta charset="UTF-8" />
-		<title>GameTime.one - Магазин рандомных ключей и аккаунтов</title>
+		<title>GameTime.one - Магазин аккаунтов и ключей </title>
 		<meta charset="utf-8" />
 		<link rel="shortcut icon" href="theme/images/favicon.ico" />
 		<link rel="stylesheet" type="text/css" href="theme/css/style.css" />
@@ -73,7 +73,7 @@ Trade.WebStudio.PW - поддержать меня
 			<div class="modal center" id="modal-2" style="width:1106px; font-weight:bold;">
 				<div class="modal-close arcticmodal-close"></div>
 <div class="center">
- 	<p style="font-size:40px; color:#fd2457;">Тех.Поддержка:</p><p style="font-size:25px;">vk.com/id362309414</p>
+ 	<p style="font-size:40px; color:#fd2457;">Тех.Поддержка:</p><p style="font-size:25px;">t.me/coladzr</p>
 <br />	
 <br />
 <p style="font-size:40px; color:#fd2457;">Почта:</p><p style="font-size:25px;"><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="87ebe6eff3e8c7fee6e9e3e2ffa9f5f2">[email&#160;protected]</a></p>
@@ -109,7 +109,7 @@ Trade.WebStudio.PW - поддержать меня
 						<li class="active"><a href="/">Главная</a></li>
 						<li><a href="#" onclick="$('#modal-3').arcticmodal(); return false;">Как купить?</a></li>
 						<li><a href="#" onclick="$('#modal-1').arcticmodal(); return false;">Гарантии</a></li>
-						<li><a target="_blank" href="https://vk.com/id362309414">Тех.поддержка</a></li>
+						<li><a target="_blank" href="https://t.me/coladzr">Тех.поддержка</a></li>
 						<li><a href="#" onclick="$('#modal-2').arcticmodal(); return false;">Контакты</a></li>
 					</ul>
 					<a href="https://www.oplata.info/info/delivery.asp"  target="_blank" class="buy">МОИ ПОКУПКИ</a>				</div>
@@ -117,7 +117,7 @@ Trade.WebStudio.PW - поддержать меня
 
 					<div class="container full">
 				<div class="item-loop">			
-		<a target="_blank"  href="https://vk.com/gametimeone" class="item2" style="background-image:url(http://i.imgur.com/oY5whmN.jpg);" title="Groupvk">
+		<a target="_blank"  href="https://vk.com/eternityshopes" class="item2" style="background-image:url(http://i.imgur.com/oY5whmN.jpg);" title="Groupvk">
 		</a>
 				</div>
 
