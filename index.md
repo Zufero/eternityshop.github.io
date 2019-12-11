@@ -73,7 +73,7 @@ Trade.WebStudio.PW - поддержать меня
 			<div class="modal center" id="modal-2" style="width:1106px; font-weight:bold;">
 				<div class="modal-close arcticmodal-close"></div>
 <div class="center">
- 	<p style="font-size:40px; color:#fd2457;">Тех.Поддержка:</p><p style="font-size:25px;">t.me/coladzr</p>
+ 	<p style="font-size:40px; color:#fd2457;">Тех.Поддержка:</p><p style="font-size:25px;">https://t.me/coladzr</p>
 <br />	
 <br />
 <p style="font-size:40px; color:#fd2457;">Почта:</p><p style="font-size:25px;"><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="87ebe6eff3e8c7fee6e9e3e2ffa9f5f2">[email&#160;protected]</a></p>
