@@ -106,7 +106,7 @@ Trade.WebStudio.PW - поддержать меня
 				<div class="full">
 				<a href="/" class="logo"></a>
 					<ul class="nav">
-						<li class="active"><a href="/">Главная</a></li>
+						<li class="active"><a href="/">Главнаяwwwwwwwwwwwwwwwwwwwwwwwww</a></li>
 						<li><a href="#" onclick="$('#modal-3').arcticmodal(); return false;">Как купить?</a></li>
 						<li><a href="#" onclick="$('#modal-1').arcticmodal(); return false;">Гарантии</a></li>
 						<li><a target="_blank" href="https://t.me/coladzr">Тех.поддержка</a></li>
